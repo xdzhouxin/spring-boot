@@ -1,13 +1,13 @@
-package com.pesond.chasing;
+package com.zhouxin.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChasingApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(ChasingApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
